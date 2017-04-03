@@ -4,7 +4,7 @@
   $topic = 'Music';
   $franchise = 'Iron Maiden';
 
-  // Let's create a simple array
+  // A simple array
   $albums = array(
     'Iron Maiden',
     'Killers',
@@ -24,7 +24,7 @@
     'Book of Souls'
   );
 
-  // Let's create an associative array
+  //An associative array
   $albumYears = array(
      'Iron Maiden' => 1980,
     'Killers' => 1981,
